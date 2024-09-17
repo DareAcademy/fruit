@@ -1,0 +1,15 @@
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\bin\Debug\net7.0\FruitManager.exe
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\bin\Debug\net7.0\FruitManager.deps.json
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\bin\Debug\net7.0\FruitManager.runtimeconfig.json
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\bin\Debug\net7.0\FruitManager.dll
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\bin\Debug\net7.0\FruitManager.pdb
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.csproj.AssemblyReference.cache
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.AssemblyInfoInputs.cache
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.AssemblyInfo.cs
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.csproj.CoreCompileInputs.cache
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.dll
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\refint\FruitManager.dll
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.pdb
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\FruitManager.genruntimeconfig.cache
+D:\Dare Academy\Sessions\07-07-2024\CsharpProjects\FruitManager\FruitManager\obj\Debug\net7.0\ref\FruitManager.dll
